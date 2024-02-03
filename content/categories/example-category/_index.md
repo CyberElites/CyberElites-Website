@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: Hardware
+description: Reverse engineering and decompilation of the computer's "software for hardware" internal components.
 image:
 
 # Badge style
