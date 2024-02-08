@@ -1,15 +1,12 @@
 ---
-title: Markdown Syntax Guide
+title: 2024 MoreNet Competition
 date: 2023-09-07
-description: Sample article showcasing basic Markdown syntax and formatting for HTML elements.
+description: Detailing the<...?>
 tags: 
-    - markdown
-    - css
-    - html
-    - themes
+    - Competitions
+    - Writeups
 categories:
-    - themes
-    - syntax
+    - CTFs
 ---
 
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.

@@ -14,9 +14,7 @@ menu:
 comments: false
 ---
 
-To use this feature, add `links` section to frontmatter.
-
-This page's frontmatter:
+< section to list import learning material/links >
 
 ```yaml
 links:
