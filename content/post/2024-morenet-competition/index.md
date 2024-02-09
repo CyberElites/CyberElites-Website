@@ -1,7 +1,7 @@
 ---
 title: 2024 MoreNet Competition
 date: 2023-09-07
-description: Detailing the<...?>
+description: TO BE DETAILED
 tags: 
     - Competitions
     - Writeups
