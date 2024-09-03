@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Electric Circuitry on CyberElites</title><link>https://cyber-elites.vercel.app/categories/electric-circuitry/</link><description>Recent content in Electric Circuitry on CyberElites</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 24 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cyber-elites.vercel.app/categories/electric-circuitry/index.xml" rel="self" type="application/rss+xml"/><item><title>Basics of Electronic Circuitry</title><link>https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/</link><pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate><guid>https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/</guid><description>&lt;img src="https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/cover.jpg" alt="Featured image of post Basics of Electronic Circuitry" />&lt;blockquote>
+&lt;p>Photo by &lt;a class="link" href="" >CyberElites&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;p>When it comes to circuitry, there are usually two main types. One is computer circuitry and the other is electrical circuitry. Both have similar and different properties but work based on the conductive properties of electricity!&lt;/p>
+&lt;p>Electronic circuitry is composed of individual electrical components such as resistors, transistors, capacitors, inductors and diodes connected by conductive wires or traces through which electric current can flow.&lt;/p>
+&lt;p>In this blog, we&amp;rsquo;ll be covering these main electric circuitry components:&lt;/p>
+&lt;ol>
+&lt;li>Breadboard&lt;/li>
+&lt;li>Main Interface/Battery&lt;/li>
+&lt;li>Dupont (Jumper) Wire&lt;/li>
+&lt;li>Light-Emitting Diode (&lt;strong>LED&lt;/strong>) Light&lt;/li>
+&lt;li>Capacitor&lt;/li>
+&lt;li>Resistor&lt;/li>
+&lt;li>Transistor&lt;/li>
+&lt;li>Switch&lt;/li>
+&lt;li>Electrically Erasable Programmable Read-only Memory(&lt;strong>EEPROM&lt;/strong>)/Microprocessor&lt;/li>
+&lt;/ol>
+&lt;h2 id="breadboard">Breadboard
+&lt;/h2>&lt;p>A breadboard is for building electrical circuits. It allows you to place components and connections on the board to make circuits without soldering. The holes in the breadboard take care of your connections by physically holding onto parts or wires where you put them and electrically connecting them inside the board. Breadboards have both a positive and negative charge on each side.&lt;/p>
+&lt;h3 id="capture">Capture
+&lt;/h3>&lt;p>&lt;img src="https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-breadboard.jpg"
+width="4624"
+height="3468"
+srcset="https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-breadboard_hu11601183801264506053.jpg 480w, https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-breadboard_hu10029441118549947706.jpg 1024w"
+loading="lazy"
+alt="CyberElites"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;h2 id="main-interfacebattery">Main Interface/Battery
+&lt;/h2>&lt;p>Depending on whether you&amp;rsquo;re using an interface or a battery to charge the breadboard, they both have different implications. With a battery, you have simple functionalities such as a positive terminal (indicated by a bulge sticking upwards) and a negative terminal (no bulge and a slight indentation).&lt;/p>
+&lt;p>With a powering interface, you have three main components. The first is the On/Off switch, which determines powering the interface or not. The second is a power source port, such as for USB, usually type B or C, or a DC charging port. The third component is the pins with the interface. These pins allow you to provide power, either in 3.3 or 5 voltage, to the breadboard or to other devices that can receive power from pins.&lt;/p>
+&lt;h3 id="capture-1">Capture
+&lt;/h3>&lt;p>&lt;img src="https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-interface.jpg"
+width="4624"
+height="3468"
+srcset="https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-interface_hu17835975574132111255.jpg 480w, https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-interface_hu17251117133498399149.jpg 1024w"
+loading="lazy"
+alt="CyberElites"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;h2 id="dupont-jumper-wire">Dupont (Jumper) Wire
+&lt;/h2>&lt;p>A jumper wire is an electric wire that connects remote electric circuits used for printed circuit boards. By attaching a jumper wire on the circuit, it can be short-circuited and short-cut (jump) to the electric circuit.&lt;/p>
+&lt;h3 id="capture-2">Capture
+&lt;/h3>&lt;p>&lt;img src="https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-wires.jpg"
+width="4624"
+height="3468"
+srcset="https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-wires_hu3518005261809429181.jpg 480w, https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-wires_hu15523073479199097141.jpg 1024w"
+loading="lazy"
+alt="CyberElites"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;h2 id="light-emitting-diode-light">Light-Emitting Diode Light
+&lt;/h2>&lt;p>A light-emitting diode (LED) is a semiconductor device that emits light when current flows through it. Electrons in the semiconductor recombine with electron holes, releasing energy in the form of photons. The “brightness” of the light is determined by the energy required for electrons to cross the band gap of the semiconductor.&lt;/p>
+&lt;h3 id="capture-3">Capture
+&lt;/h3>&lt;p>&lt;img src="https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-led.jpg"
+width="4624"
+height="3468"
+srcset="https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-led_hu1993242468401281864.jpg 480w, https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-led_hu13087615044528303194.jpg 1024w"
+loading="lazy"
+alt="CyberElites"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;h2 id="capacitor">Capacitor
+&lt;/h2>&lt;p>In electrical engineering, a capacitor is a device that stores electrical energy by accumulating electric charges on two closely spaced surfaces that are insulated from each other. It is a passive electronic component with two terminals.&lt;/p>
+&lt;h3 id="capture-4">Capture
+&lt;/h3>&lt;p>&lt;img src="https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-capacitor.jpg"
+width="4624"
+height="3468"
+srcset="https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-capacitor_hu6381158098542350298.jpg 480w, https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-capacitor_hu10388929209557317536.jpg 1024w"
+loading="lazy"
+alt="CyberElites"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;h2 id="resistor">Resistor
+&lt;/h2>&lt;p>A resistor is a passive two-terminal electrical component that implements electrical resistance as a circuit element. In electronic circuits, resistors are used to reduce current flow, adjust signal levels, to divide voltages, bias active elements, and terminate transmission lines, among other uses.&lt;/p>
+&lt;h3 id="capture-5">Capture
+&lt;/h3>&lt;p>&lt;img src="https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-resistor.jpg"
+width="2056"
+height="1152"
+srcset="https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-resistor_hu1482764325390385512.jpg 480w, https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-resistor_hu12400786230343420613.jpg 1024w"
+loading="lazy"
+alt="CyberElites"
+class="gallery-image"
+data-flex-grow="178"
+data-flex-basis="428px"
+>&lt;/p>
+&lt;h2 id="transistor">Transistor
+&lt;/h2>&lt;p>A transistor is a semiconductor device used to amplify or switch electrical signals and power. It is one of the basic building blocks of modern electronics. It is composed of semiconductor material, usually with at least three terminals for connection to an electronic circuit.&lt;/p>
+&lt;h3 id="capture-6">Capture
+&lt;/h3>&lt;p>&lt;img src="https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-transistor.jpg"
+width="4624"
+height="3468"
+srcset="https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-transistor_hu10166539007684530378.jpg 480w, https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-transistor_hu8433908898289324040.jpg 1024w"
+loading="lazy"
+alt="CyberElites"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;h2 id="switch">Switch
+&lt;/h2>&lt;p>Breadboard switches are used to connect or disconnect a power connection in a wire. They are useful for the user to control the power’s flow. Depending on your switch, the power manipulation may vary; however, in the switch image below, the power&amp;rsquo;s flow is dictated by which pin is adjacent on the same side of the switch. For instance, if the pin on the bottom right is being powered, then the output of power is the pin on the bottom left.&lt;/p>
+&lt;h3 id="capture-7">Capture
+&lt;/h3>&lt;p>&lt;img src="https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-switch.jpg"
+width="4624"
+height="3468"
+srcset="https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-switch_hu10515902738574957810.jpg 480w, https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-switch_hu15295251988481530979.jpg 1024w"
+loading="lazy"
+alt="CyberElites"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;h2 id="eeprommicroprocessor">EEPROM/Microprocessor
+&lt;/h2>&lt;p>Electrically Erasable Programmable Read-only Memory (EEPROM) is a type of non-volatile memory. It is used in computers, usually integrated in microcontrollers such as smart cards and remote keyless systems, or as a separate chip device, to store relatively small amounts of data by allowing individual bytes to be erased and reprogrammed.&lt;/p>
+&lt;p>Now, with a EEPROM microprocessor, each pin on a eight pin processor has different functionalities for an electrical circuit, however, discussing these pin&amp;rsquo;s functionalities is out of scope of this blog. More information can be found online or you can wait until next week when the cybersecurity club starts extracting firmware from hardware. When we do this, our next post will go over the specifications of these pins as well some hardware hacking techniques we used. Stay tuned and subscribed for more!&lt;/p>
+&lt;h3 id="capture-8">Capture
+&lt;/h3>&lt;p>&lt;img src="https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/diagrams/cir-8-eeprom-diagram.jpg"
+width="500"
+height="382"
+srcset="https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/diagrams/cir-8-eeprom-diagram_hu15269288542059574946.jpg 480w, https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/diagrams/cir-8-eeprom-diagram_hu6308797989092710911.jpg 1024w"
+loading="lazy"
+alt="Nshuti Honore | Faranux Electronics"
+class="gallery-image"
+data-flex-grow="130"
+data-flex-basis="314px"
+>&lt;/p>
+&lt;p>Now that you understand the different kinds of components for electrical circuitry, do you think you could make your own breadboard using these parts? You can order a basic tool kit for these kinds of projects with this link &lt;a class="link" href="https://www.amazon.com/ELEGOO-Electronics-Potentiometer-tie-Points-Breadboard/dp/B09YRJQRFF/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.DdJjDkyEnOjQaaAj5ktxWHxWlvPTX9GQMCMkxJWPgbZW62P17WHTBEL56oFky2B8RQcQDfiUbVHaUBbmDHjd6kWfpEkWjkLwU3dhXczsDoytXO8eVlFttTCA2Kj33UGoExVySSCkzTd8RHqRcZIXRay5tYoUDGQ90yhVVkhWMX1EFQEOzK2sOqGQviJf7s_nKW1tV-WyccxrMha7_LSy0HafpLMwmnz6WZuMsXFJyuc.be7FowhtyA6tGiwlk6wyuqrTD8PyPT3Pl25qL-SiyGg&amp;amp;dib_tag=se&amp;amp;keywords=breadboard%2Bkit&amp;amp;qid=1708845526&amp;amp;sr=8-1-spons&amp;amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;amp;th=1" target="_blank" rel="noopener"
+>here!&lt;/a>&lt;/p>
+&lt;hr>
+&lt;p>&lt;em>If you like these posts, please consider sharing and subscribing to our emailing service!&lt;/em>&lt;/p></description></item></channel></rss>

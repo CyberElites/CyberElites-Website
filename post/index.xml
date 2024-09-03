@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on CyberElites</title><link>https://cyber-elites.vercel.app/post/</link><description>Recent content in Posts on CyberElites</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 24 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cyber-elites.vercel.app/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Basics of Electronic Circuitry</title><link>https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/</link><pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate><guid>https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/</guid><description>&lt;img src="https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/cover.jpg" alt="Featured image of post Basics of Electronic Circuitry" />&lt;blockquote>
+&lt;p>Photo by &lt;a class="link" href="" >CyberElites&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;p>When it comes to circuitry, there are usually two main types. One is computer circuitry and the other is electrical circuitry. Both have similar and different properties but work based on the conductive properties of electricity!&lt;/p>
+&lt;p>Electronic circuitry is composed of individual electrical components such as resistors, transistors, capacitors, inductors and diodes connected by conductive wires or traces through which electric current can flow.&lt;/p>
+&lt;p>In this blog, we&amp;rsquo;ll be covering these main electric circuitry components:&lt;/p>
+&lt;ol>
+&lt;li>Breadboard&lt;/li>
+&lt;li>Main Interface/Battery&lt;/li>
+&lt;li>Dupont (Jumper) Wire&lt;/li>
+&lt;li>Light-Emitting Diode (&lt;strong>LED&lt;/strong>) Light&lt;/li>
+&lt;li>Capacitor&lt;/li>
+&lt;li>Resistor&lt;/li>
+&lt;li>Transistor&lt;/li>
+&lt;li>Switch&lt;/li>
+&lt;li>Electrically Erasable Programmable Read-only Memory(&lt;strong>EEPROM&lt;/strong>)/Microprocessor&lt;/li>
+&lt;/ol>
+&lt;h2 id="breadboard">Breadboard
+&lt;/h2>&lt;p>A breadboard is for building electrical circuits. It allows you to place components and connections on the board to make circuits without soldering. The holes in the breadboard take care of your connections by physically holding onto parts or wires where you put them and electrically connecting them inside the board. Breadboards have both a positive and negative charge on each side.&lt;/p>
+&lt;h3 id="capture">Capture
+&lt;/h3>&lt;p>&lt;img src="https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-breadboard.jpg"
+width="4624"
+height="3468"
+srcset="https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-breadboard_hu11601183801264506053.jpg 480w, https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-breadboard_hu10029441118549947706.jpg 1024w"
+loading="lazy"
+alt="CyberElites"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;h2 id="main-interfacebattery">Main Interface/Battery
+&lt;/h2>&lt;p>Depending on whether you&amp;rsquo;re using an interface or a battery to charge the breadboard, they both have different implications. With a battery, you have simple functionalities such as a positive terminal (indicated by a bulge sticking upwards) and a negative terminal (no bulge and a slight indentation).&lt;/p>
+&lt;p>With a powering interface, you have three main components. The first is the On/Off switch, which determines powering the interface or not. The second is a power source port, such as for USB, usually type B or C, or a DC charging port. The third component is the pins with the interface. These pins allow you to provide power, either in 3.3 or 5 voltage, to the breadboard or to other devices that can receive power from pins.&lt;/p>
+&lt;h3 id="capture-1">Capture
+&lt;/h3>&lt;p>&lt;img src="https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-interface.jpg"
+width="4624"
+height="3468"
+srcset="https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-interface_hu17835975574132111255.jpg 480w, https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-interface_hu17251117133498399149.jpg 1024w"
+loading="lazy"
+alt="CyberElites"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;h2 id="dupont-jumper-wire">Dupont (Jumper) Wire
+&lt;/h2>&lt;p>A jumper wire is an electric wire that connects remote electric circuits used for printed circuit boards. By attaching a jumper wire on the circuit, it can be short-circuited and short-cut (jump) to the electric circuit.&lt;/p>
+&lt;h3 id="capture-2">Capture
+&lt;/h3>&lt;p>&lt;img src="https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-wires.jpg"
+width="4624"
+height="3468"
+srcset="https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-wires_hu3518005261809429181.jpg 480w, https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-wires_hu15523073479199097141.jpg 1024w"
+loading="lazy"
+alt="CyberElites"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;h2 id="light-emitting-diode-light">Light-Emitting Diode Light
+&lt;/h2>&lt;p>A light-emitting diode (LED) is a semiconductor device that emits light when current flows through it. Electrons in the semiconductor recombine with electron holes, releasing energy in the form of photons. The “brightness” of the light is determined by the energy required for electrons to cross the band gap of the semiconductor.&lt;/p>
+&lt;h3 id="capture-3">Capture
+&lt;/h3>&lt;p>&lt;img src="https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-led.jpg"
+width="4624"
+height="3468"
+srcset="https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-led_hu1993242468401281864.jpg 480w, https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-led_hu13087615044528303194.jpg 1024w"
+loading="lazy"
+alt="CyberElites"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;h2 id="capacitor">Capacitor
+&lt;/h2>&lt;p>In electrical engineering, a capacitor is a device that stores electrical energy by accumulating electric charges on two closely spaced surfaces that are insulated from each other. It is a passive electronic component with two terminals.&lt;/p>
+&lt;h3 id="capture-4">Capture
+&lt;/h3>&lt;p>&lt;img src="https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-capacitor.jpg"
+width="4624"
+height="3468"
+srcset="https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-capacitor_hu6381158098542350298.jpg 480w, https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-capacitor_hu10388929209557317536.jpg 1024w"
+loading="lazy"
+alt="CyberElites"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;h2 id="resistor">Resistor
+&lt;/h2>&lt;p>A resistor is a passive two-terminal electrical component that implements electrical resistance as a circuit element. In electronic circuits, resistors are used to reduce current flow, adjust signal levels, to divide voltages, bias active elements, and terminate transmission lines, among other uses.&lt;/p>
+&lt;h3 id="capture-5">Capture
+&lt;/h3>&lt;p>&lt;img src="https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-resistor.jpg"
+width="2056"
+height="1152"
+srcset="https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-resistor_hu1482764325390385512.jpg 480w, https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-resistor_hu12400786230343420613.jpg 1024w"
+loading="lazy"
+alt="CyberElites"
+class="gallery-image"
+data-flex-grow="178"
+data-flex-basis="428px"
+>&lt;/p>
+&lt;h2 id="transistor">Transistor
+&lt;/h2>&lt;p>A transistor is a semiconductor device used to amplify or switch electrical signals and power. It is one of the basic building blocks of modern electronics. It is composed of semiconductor material, usually with at least three terminals for connection to an electronic circuit.&lt;/p>
+&lt;h3 id="capture-6">Capture
+&lt;/h3>&lt;p>&lt;img src="https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-transistor.jpg"
+width="4624"
+height="3468"
+srcset="https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-transistor_hu10166539007684530378.jpg 480w, https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-transistor_hu8433908898289324040.jpg 1024w"
+loading="lazy"
+alt="CyberElites"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;h2 id="switch">Switch
+&lt;/h2>&lt;p>Breadboard switches are used to connect or disconnect a power connection in a wire. They are useful for the user to control the power’s flow. Depending on your switch, the power manipulation may vary; however, in the switch image below, the power&amp;rsquo;s flow is dictated by which pin is adjacent on the same side of the switch. For instance, if the pin on the bottom right is being powered, then the output of power is the pin on the bottom left.&lt;/p>
+&lt;h3 id="capture-7">Capture
+&lt;/h3>&lt;p>&lt;img src="https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-switch.jpg"
+width="4624"
+height="3468"
+srcset="https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-switch_hu10515902738574957810.jpg 480w, https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/parts/cir-switch_hu15295251988481530979.jpg 1024w"
+loading="lazy"
+alt="CyberElites"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;h2 id="eeprommicroprocessor">EEPROM/Microprocessor
+&lt;/h2>&lt;p>Electrically Erasable Programmable Read-only Memory (EEPROM) is a type of non-volatile memory. It is used in computers, usually integrated in microcontrollers such as smart cards and remote keyless systems, or as a separate chip device, to store relatively small amounts of data by allowing individual bytes to be erased and reprogrammed.&lt;/p>
+&lt;p>Now, with a EEPROM microprocessor, each pin on a eight pin processor has different functionalities for an electrical circuit, however, discussing these pin&amp;rsquo;s functionalities is out of scope of this blog. More information can be found online or you can wait until next week when the cybersecurity club starts extracting firmware from hardware. When we do this, our next post will go over the specifications of these pins as well some hardware hacking techniques we used. Stay tuned and subscribed for more!&lt;/p>
+&lt;h3 id="capture-8">Capture
+&lt;/h3>&lt;p>&lt;img src="https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/diagrams/cir-8-eeprom-diagram.jpg"
+width="500"
+height="382"
+srcset="https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/diagrams/cir-8-eeprom-diagram_hu15269288542059574946.jpg 480w, https://cyber-elites.vercel.app/p/world-of-electronic-circuitry/doc-pictures/diagrams/cir-8-eeprom-diagram_hu6308797989092710911.jpg 1024w"
+loading="lazy"
+alt="Nshuti Honore | Faranux Electronics"
+class="gallery-image"
+data-flex-grow="130"
+data-flex-basis="314px"
+>&lt;/p>
+&lt;p>Now that you understand the different kinds of components for electrical circuitry, do you think you could make your own breadboard using these parts? You can order a basic tool kit for these kinds of projects with this link &lt;a class="link" href="https://www.amazon.com/ELEGOO-Electronics-Potentiometer-tie-Points-Breadboard/dp/B09YRJQRFF/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.DdJjDkyEnOjQaaAj5ktxWHxWlvPTX9GQMCMkxJWPgbZW62P17WHTBEL56oFky2B8RQcQDfiUbVHaUBbmDHjd6kWfpEkWjkLwU3dhXczsDoytXO8eVlFttTCA2Kj33UGoExVySSCkzTd8RHqRcZIXRay5tYoUDGQ90yhVVkhWMX1EFQEOzK2sOqGQviJf7s_nKW1tV-WyccxrMha7_LSy0HafpLMwmnz6WZuMsXFJyuc.be7FowhtyA6tGiwlk6wyuqrTD8PyPT3Pl25qL-SiyGg&amp;amp;dib_tag=se&amp;amp;keywords=breadboard%2Bkit&amp;amp;qid=1708845526&amp;amp;sr=8-1-spons&amp;amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;amp;th=1" target="_blank" rel="noopener"
+>here!&lt;/a>&lt;/p>
+&lt;hr>
+&lt;p>&lt;em>If you like these posts, please consider sharing and subscribing to our emailing service!&lt;/em>&lt;/p></description></item><item><title>Basics of Hardware</title><link>https://cyber-elites.vercel.app/p/world-of-hardware/</link><pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate><guid>https://cyber-elites.vercel.app/p/world-of-hardware/</guid><description>&lt;img src="https://cyber-elites.vercel.app/p/world-of-hardware/cover.jpg" alt="Featured image of post Basics of Hardware" />&lt;blockquote>
+&lt;p>Photo by &lt;a class="link" href="https://www.excelsior.edu/article/career-spotlight-computer-hardware-engineer/" target="_blank" rel="noopener"
+>Excelsior University&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;p>Have you ever wondered how the internal of you computer works? What makes it tick and function to do your daily tasks?&lt;/p>
+&lt;p>In this blog, we will decipher the different components that makeup a personal computer, as well as, how each component functions and how each piece of hardware depends on each other.&lt;/p>
+&lt;h2 id="what-is-hardware">What is Hardware?
+&lt;/h2>&lt;p>Hardware are the physical makeup components that make a computer function. Such components include:&lt;/p>
+&lt;ol>
+&lt;li>Personal Computer (&lt;strong>PC&lt;/strong>) Case&lt;/li>
+&lt;li>Power Supply Unit (&lt;strong>PSU&lt;/strong>)&lt;/li>
+&lt;li>Computer Cables (SATA, Molex, PCI/PCIe)&lt;/li>
+&lt;li>Computer Fans&lt;/li>
+&lt;li>Motherboard&lt;/li>
+&lt;li>Random Access Memory (&lt;strong>RAM&lt;/strong>)&lt;/li>
+&lt;li>Graphical Processing Unit (&lt;strong>GPU&lt;/strong>)&lt;/li>
+&lt;li>Input/Output (&lt;strong>IO&lt;/strong>) Shield with Connections&lt;/li>
+&lt;li>Heatsink&lt;/li>
+&lt;li>Central Processing Unit (&lt;strong>CPU&lt;/strong>)&lt;/li>
+&lt;li>Hard Disk Drive/Solid State Drive (&lt;strong>HDD/SSD&lt;/strong>)&lt;/li>
+&lt;/ol>
+&lt;h2 id="personal-computer-case">Personal Computer Case
+&lt;/h2>&lt;p>This component contains the hardware in your &lt;em>personal computer&lt;/em> (PC). Even though PC cases can be any desired shape or size, they have to be large and concise enough to safely and securly contain your internal hardware.&lt;/p>
+&lt;p>&lt;img src="https://cyber-elites.vercel.app/p/world-of-hardware/doc-pictures/pc-case.png"
+width="2000"
+height="1333"
+srcset="https://cyber-elites.vercel.app/p/world-of-hardware/doc-pictures/pc-case_hu10116946858778350719.png 480w, https://cyber-elites.vercel.app/p/world-of-hardware/doc-pictures/pc-case_hu198462458364443941.png 1024w"
+loading="lazy"
+alt="Adam Patrick Murray | IDG"
+class="gallery-image"
+data-flex-grow="150"
+data-flex-basis="360px"
+>&lt;/p>
+&lt;h2 id="power-supply-unit">Power Supply Unit
+&lt;/h2>&lt;p>The &lt;em>power supply unit&lt;/em> (PSU) is responsible for converting AC power from your wall outlet into DC power that your computer components can use. It distributes power to various components such as the motherboard, CPU, GPU, and drives, ensuring stable operation and preventing damage from power fluctuations.&lt;/p>
+&lt;p>&lt;img src="https://cyber-elites.vercel.app/p/world-of-hardware/doc-pictures/pc-psu.png"
+width="1024"
+height="943"
+srcset="https://cyber-elites.vercel.app/p/world-of-hardware/doc-pictures/pc-psu_hu12519397390044148380.png 480w, https://cyber-elites.vercel.app/p/world-of-hardware/doc-pictures/pc-psu_hu780017368996438638.png 1024w"
+loading="lazy"
+alt="Wikipedia"
+class="gallery-image"
+data-flex-grow="108"
+data-flex-basis="260px"
+>&lt;/p>
+&lt;h2 id="computer-cables-sata-molex-pcipcie">Computer Cables (SATA, Molex, PCI/PCIe)
+&lt;/h2>&lt;p>These cables connect various internal components of the computer, allowing them to communicate and receive power. SATA cables are commonly used for connecting storage drives, Molex for powering peripherals like fans and drives, and PCI/PCIe cables for providing power to the graphics card and other expansion cards.&lt;/p>
+&lt;p>&lt;img src="https://cyber-elites.vercel.app/p/world-of-hardware/doc-pictures/pc-cables.png"
+width="1800"
+height="785"
+srcset="https://cyber-elites.vercel.app/p/world-of-hardware/doc-pictures/pc-cables_hu16126725189881948799.png 480w, https://cyber-elites.vercel.app/p/world-of-hardware/doc-pictures/pc-cables_hu10333447511560508011.png 1024w"
+loading="lazy"
+alt="Corsair"
+class="gallery-image"
+data-flex-grow="229"
+data-flex-basis="550px"
+>&lt;/p>
+&lt;h2 id="computer-fans">Computer Fans
+&lt;/h2>&lt;p>Fans are crucial for cooling the components of a computer, dissipating heat generated during operation. They draw cool air into the system and expel hot air, maintaining optimal temperatures for components such as the CPU, GPU, and power supply to prevent overheating and ensure stable performance.&lt;/p>
+&lt;p>&lt;img src="https://cyber-elites.vercel.app/p/world-of-hardware/doc-pictures/pc-fans.png"
+width="1920"
+height="1080"
+srcset="https://cyber-elites.vercel.app/p/world-of-hardware/doc-pictures/pc-fans_hu6367232065674641603.png 480w, https://cyber-elites.vercel.app/p/world-of-hardware/doc-pictures/pc-fans_hu8939204232953229252.png 1024w"
+loading="lazy"
+alt="BullseyeReview2IT | YouTube"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;h2 id="motherboard">Motherboard
+&lt;/h2>&lt;p>The motherboard acts as the central hub of a computer, providing connections and communication pathways between various components such as the CPU, RAM, GPU, storage drives, and peripherals. It facilitates data transfer, power distribution, and coordination among these components, enabling the computer to function as a cohesive unit.&lt;/p>
+&lt;p>&lt;img src="https://cyber-elites.vercel.app/p/world-of-hardware/doc-pictures/pc-motherboard.png"
+width="800"
+height="400"
+srcset="https://cyber-elites.vercel.app/p/world-of-hardware/doc-pictures/pc-motherboard_hu13760792523064376143.png 480w, https://cyber-elites.vercel.app/p/world-of-hardware/doc-pictures/pc-motherboard_hu7937879152019286344.png 1024w"
+loading="lazy"
+alt="iStock"
+class="gallery-image"
+data-flex-grow="200"
+data-flex-basis="480px"
+>&lt;/p>
+&lt;h2 id="random-access-memory">Random Access Memory
+&lt;/h2>&lt;p>&lt;em>Random access memory&lt;/em> (RAM) serves as temporary storage for data and instructions that the CPU needs to access quickly during operation. It allows for fast read and write operations, significantly improving overall system performance by providing quick access to frequently used data and reducing reliance on slower storage devices like hard drives or SSDs.&lt;/p>
+&lt;p>&lt;img src="https://cyber-elites.vercel.app/p/world-of-hardware/doc-pictures/pc-ram.png"
+width="1920"
+height="1080"
+srcset="https://cyber-elites.vercel.app/p/world-of-hardware/doc-pictures/pc-ram_hu13702643663158378426.png 480w, https://cyber-elites.vercel.app/p/world-of-hardware/doc-pictures/pc-ram_hu17505771396874918756.png 1024w"
+loading="lazy"
+alt="Getty Images"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;h2 id="graphical-processing-unit">Graphical Processing Unit
+&lt;/h2>&lt;p>The &lt;em>graphical processing unit&lt;/em> (GPU) specializes in rendering graphics and images, handling complex mathematical calculations required for tasks such as gaming, video editing, and 3D rendering. It offloads this workload from the CPU, allowing for smoother performance in graphical-intensive applications and enabling high-quality visuals on computer displays.&lt;/p>
+&lt;p>&lt;img src="https://cyber-elites.vercel.app/p/world-of-hardware/doc-pictures/pc-gpu.png"
+width="1280"
+height="720"
+srcset="https://cyber-elites.vercel.app/p/world-of-hardware/doc-pictures/pc-gpu_hu6538806373352255531.png 480w, https://cyber-elites.vercel.app/p/world-of-hardware/doc-pictures/pc-gpu_hu4043157779097645344.png 1024w"
+loading="lazy"
+alt="Partola Viacheslav | Shutterstock"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;h2 id="inputoutput-shield">Input/Output Shield
+&lt;/h2>&lt;p>The &lt;em>input/output&lt;/em> (IO) shield is a metal plate that covers the rear ports of the motherboard, providing physical support and shielding against electromagnetic interference. It also features cutouts for various ports such as USB, HDMI, Ethernet, and audio, allowing for connectivity with external devices and peripherals.&lt;/p>
+&lt;p>&lt;img src="https://cyber-elites.vercel.app/p/world-of-hardware/doc-pictures/pc-io.png"
+width="1280"
+height="514"
+srcset="https://cyber-elites.vercel.app/p/world-of-hardware/doc-pictures/pc-io_hu1078372494030058152.png 480w, https://cyber-elites.vercel.app/p/world-of-hardware/doc-pictures/pc-io_hu3815415055797090893.png 1024w"
+loading="lazy"
+alt="Elfworks | Printables"
+class="gallery-image"
+data-flex-grow="249"
+data-flex-basis="597px"
+>&lt;/p>
+&lt;h2 id="heatsink">Heatsink
+&lt;/h2>&lt;p>A heatsink is a passive cooling component typically made of metal that dissipates heat away from hot components such as the CPU or GPU. It works by increasing the surface area available for heat transfer, allowing thermal energy to dissipate into the surrounding air more efficiently and preventing overheating.&lt;/p>
+&lt;p>&lt;img src="https://cyber-elites.vercel.app/p/world-of-hardware/doc-pictures/pc-heatsink.png"
+width="6000"
+height="4000"
+srcset="https://cyber-elites.vercel.app/p/world-of-hardware/doc-pictures/pc-heatsink_hu16295510027923374123.png 480w, https://cyber-elites.vercel.app/p/world-of-hardware/doc-pictures/pc-heatsink_hu15145127445746545174.png 1024w"
+loading="lazy"
+alt="Soumen | Adobe Stock"
+class="gallery-image"
+data-flex-grow="150"
+data-flex-basis="360px"
+>&lt;/p>
+&lt;h2 id="central-processing-unit">Central Processing Unit
+&lt;/h2>&lt;p>The &lt;em>central processing unit&lt;/em> (CPU) is the brain of the computer, executing instructions and performing calculations necessary for running applications and operating system tasks. It interprets and processes data fetched from memory, coordinating the operation of other components to execute tasks efficiently and ensure smooth operation of the system.&lt;/p>
+&lt;p>&lt;img src="https://cyber-elites.vercel.app/p/world-of-hardware/doc-pictures/pc-cpu.png"
+width="1136"
+height="852"
+srcset="https://cyber-elites.vercel.app/p/world-of-hardware/doc-pictures/pc-cpu_hu4772736644037232617.png 480w, https://cyber-elites.vercel.app/p/world-of-hardware/doc-pictures/pc-cpu_hu8678067607168660940.png 1024w"
+loading="lazy"
+alt="Narumon Bowonkitwanchai | Getty Images"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;h2 id="hard-disk--solid-state-drives">Hard Disk &amp;amp; Solid State Drives
+&lt;/h2>&lt;p>&lt;em>Hard disk drives&lt;/em> (HDDs) and &lt;em>solid state drives&lt;/em> (SSDs) are storage devices used to store data permanently on a computer. HDDs use spinning magnetic disks to store and retrieve data, while SSDs use flash memory chips for faster read and write speeds. Both types of drives store operating system files, applications, documents, and media, allowing users to access and retrieve data as needed.&lt;/p>
+&lt;p>&lt;img src="https://cyber-elites.vercel.app/p/world-of-hardware/doc-pictures/pc-ssd-hdd.png"
+width="1400"
+height="706"
+srcset="https://cyber-elites.vercel.app/p/world-of-hardware/doc-pictures/pc-ssd-hdd_hu9992524917894974064.png 480w, https://cyber-elites.vercel.app/p/world-of-hardware/doc-pictures/pc-ssd-hdd_hu9453139439702300180.png 1024w"
+loading="lazy"
+alt="Unknown Origin"
+class="gallery-image"
+data-flex-grow="198"
+data-flex-basis="475px"
+>&lt;/p>
+&lt;p>With the wrap-up of these components, you are one step closer to discovering the technological wonders of hardware, how they interact with each other, and the purpose they serve you!&lt;/p>
+&lt;p>We also have a video that you can check about the disassembling of hardware &lt;a class="link" href="https://www.youtube.com/watch?v=AztQEPDraKQ&amp;amp;t=10s" target="_blank" rel="noopener"
+>here!&lt;/a>&lt;/p>
+&lt;hr>
+&lt;p>&lt;em>If you like these posts, please consider sharing and subscribing to our emailing service!&lt;/em>&lt;/p></description></item></channel></rss>
